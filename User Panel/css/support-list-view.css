@@ -327,3 +327,22 @@ a.show-link span:hover{
     color: rgb(0,0,145);
     transition: 0.3s;
 }
+
+#Helya {
+    background-image: linear-gradient(139deg, #ff8ad5, #6aff78);
+    padding: 5% 0%;
+}
+
+#Helya span {
+    font-weight: bold;
+    color: teal;
+    font-size: 128%;
+}
+
+#Helya i {
+    background-color: teal;
+}
+
+#Helya div {
+    padding: 0px 0px 24px 82px;
+}
